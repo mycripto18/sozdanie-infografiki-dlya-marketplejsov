@@ -1,2 +1,3 @@
 User-agent: Yandex
-Sitemap: https://sozdanie-infografiki-dlya-marketplejsov.vercel.app/sitemap.xml
+
+Sitemap: https://sozdanie-infografiki-dlya-mp.vercel.app/sitemap.xml
